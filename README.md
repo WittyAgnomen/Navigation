@@ -42,7 +42,7 @@ The second to last block of code in `Navigation.ipynb` will let you watch a trai
 - you can run a agent trained on a 3 hidden layer DQN with checkpoint3L.pth
 - you can run a agent trained on a 4 hidden layer DQN with checkpoint4L.pth
 
-Python Dependencies:
+### Python Dependencies:
 - UnityEnvironment
 - numpy 1.15.4
 - random
