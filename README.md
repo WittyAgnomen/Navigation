@@ -44,9 +44,9 @@ The second to last block of code in `Navigation.ipynb` will let you watch a trai
 
 Python Dependencies:
 - UnityEnvironment
-- numpy
+- numpy 1.15.4
 - random
-- torch
-- matplotlib
+- torch 0.4.0
+- matplotlib 3.0.2
 - collections
 
